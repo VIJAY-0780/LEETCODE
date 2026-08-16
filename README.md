@@ -1,4 +1,4 @@
-# https-github.com-VIJAY-0780-LEETCODE
+# LEETCODE
 
 
 <!---LeetCode Topics Start-->

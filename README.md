@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |

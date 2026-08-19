@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
 | ------- |

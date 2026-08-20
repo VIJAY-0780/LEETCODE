@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +57,28 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
